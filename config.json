@@ -13,7 +13,7 @@
   "all": false,
   "group": "genre",
   "regionalize": false,
-  "excludeGroups": "(News|Español)",
+  "excludeGroups": "(News|Español|Game Shows|Reality)",
   "excludeChannels": false,
   "uniqueClientid": false,
   "randomClientid": false,
