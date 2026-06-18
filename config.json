@@ -13,7 +13,7 @@
   "all": false,
   "group": "genre",
   "regionalize": false,
-  "excludeGroups": false,
+  "excludeGroups": "(News|Español)",
   "excludeChannels": false,
   "uniqueClientid": false,
   "randomClientid": false,
